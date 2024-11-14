@@ -17,7 +17,7 @@
 
 &ensp; Entrega da ponderada Semáforo Inteligente, onde dois semáforos funcionam de forma sincronizada, ou seja, um semáforo só fica aberto quando o outro está fechado. Além disso, o sistema possui um sensor LDR, permitindo que ele detecte a passagem de carros simulados por variação de luz. Além disso, o sistema também possui uma interface online que permite ajustar o comportamento dos semáforos e ativar o modo noturno, além de visualizar os dados captados pelo LDR em tempo real.
 
-- [Foto da montagem física]().
-- [Código do semáforo]().
+- [Foto da montagem física](https://github.com/gui23g/PonderadaM4S5/blob/main/midia/Foto%20do%20esquema.jpg).
+- [Código do semáforo](https://github.com/gui23g/PonderadaM4S5/blob/main/src/semaforo.ino).
 - [Interface online](https://github.com/GabrielScarpelinDiniz/plataforma-semaforos).
-- [Vídeo demonstrando o funcionamento]().
+- [Vídeo demonstrando o funcionamento](https://github.com/gui23g/PonderadaM4S5/blob/main/midia/Funcionamento%20dos%20semaforos.mp4).
